@@ -54,8 +54,8 @@ minima:
   # Generate social links in footer.
   social_links:
    - { platform: github,         user_url: "https://github.com/s1db" }
-   - { platform: google_scholar, user_url: "https://scholar.google.co.uk/citations?user=NC3ElisAAAAJ" }
    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/sidhant-bhavnani/" }
+   - { platform: google_scholar, user_url: "https://scholar.google.co.uk/citations?user=NC3ElisAAAAJ" }
    - { platform: x,              user_url: "https://x.com/s1db_" }
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
